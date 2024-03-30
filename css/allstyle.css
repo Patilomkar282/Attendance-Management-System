@@ -1,0 +1,45 @@
+header img{
+
+  width: 180px;
+  height: 100px;
+}
+h2{
+    margin-left: 160px;
+}
+.top
+{
+    display: flex;
+    background-color: red;
+    margin: 20px;
+}
+
+.navbar
+{
+    background-color:#03a9f4 ;
+}
+.navbar a{
+    float: right;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.footer-content p {
+    margin: 0;
+}
+.content{
+padding: 10px;
+
+}
+.col1
+{
+    display: flex;
+    width: 500px;
+}
